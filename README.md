@@ -1,0 +1,2 @@
+# LatihanJava
+Latihan menggunakan java
